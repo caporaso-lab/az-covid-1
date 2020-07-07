@@ -1,3 +1,5 @@
+**This repository has been succeeded by [genome-sampler](https://github.com/caporaso-lab/genome-sampler). You should that instead of the code in this repository.**
+
 **This is NOT PRODUCTION-READY code.** It is not yet sufficiently tested, validated, or documented. You should not use this for anything beyond experimental purposes.
 
 # az-covid-1
